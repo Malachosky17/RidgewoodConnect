@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ridgewood Connect</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- Live Videos -->
+    <string name="live_streaming">http://livestream.com/accounts/6852072/events/2695482/player?</string>
+</resources>
